@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xV7EdrJp1Hnd9J1Or0ZRIgMZ8cmsVE0fjbkCYms6h+vzD1d1NFIGBsypFCL71uGstxp4J97cSN5fzid9Xa+qg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\C#\\POC\\ORM\\ORM\\SquidORM\\SquidORM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vince\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
